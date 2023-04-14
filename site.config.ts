@@ -9,19 +9,19 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'NIVIKI.COM - TỰ DO TÀI CHÍNH',
-  domain: 'niviki.com',
-  author: 'Khoa Nguyen',
+  name: 'NUOC PHAP TRONG TOI',
+  domain: 'france.fr',
+  author: 'Quanitologie',
 
   // open graph metadata (optional)
-  description: 'Lan toả tinh thần tự do tài chính đến với nhiều người hơn nữa! Tự do tài chính là bạn được quyền “thất nghiệp” nhưng vẫn có đủ tiền cho một cuộc sống thoải mái trong thời gian dài',
+  description: 'Học tiếng Pháp và tìm hiểu văn hoá Pháp, cuộc sống, con người Pháp',
 
   // social usernames (optional)
-  twitter: 'khoa_nvk',
+  twitter: 'roses_are__rose',
   // github: 'transitive-bullshit',
-  linkedin: 'khoanguyen08',
+  linkedin: 'franceculture',
   
-  facebook: 'https://www.facebook.com/groups/nocodevietnam',
+  facebook: 'https://www.facebook.com/groups/1581996288979585',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
   youtube: 'channel/UCI6GDuK41kD9T8icFp8d7Aw', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
@@ -61,15 +61,15 @@ export default siteConfig({
       pageId: '59432e1a0cdf4effbb402701deff00a9'
     },    
     {
-      title: 'NoCode VN',
+      title: 'Nhật kí',
       pageId: '93331fa2964045248502bd314019c917'
     },    
     {
-      title: 'Khoá học',
+      title: 'Photos',
       pageId: '8e761b9e7d1b4db1ae76bbc1e4f9aa1f'
     },    
     {
-      title: 'About',
+      title: 'Về tôi',
       pageId: '38979ee661fc4a5d8af2d7c32319ee0d'
     }
   ]
