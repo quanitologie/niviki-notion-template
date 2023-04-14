@@ -24,7 +24,7 @@ export default siteConfig({
   facebook: 'https://www.facebook.com/groups/1581996288979585',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
-  youtube: 'channel/UCI6GDuK41kD9T8icFp8d7Aw', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
+  youtube: 'channel/@blackpink', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
@@ -58,7 +58,7 @@ export default siteConfig({
   navigationLinks: [
     {
       title: 'Blog',
-      pageId: '59432e1a0cdf4effbb402701deff00a9'
+      pageId: 'H-C-TI-NG-PH-P-C-NG-QUANITO-407e5c1713504918aae11e38152aa7e6'
     },    
     {
       title: 'Nhật kí',
