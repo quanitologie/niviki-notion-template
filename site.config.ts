@@ -58,7 +58,7 @@ export default siteConfig({
   navigationLinks: [
     {
       title: 'Blog',
-      pageId: 'H-C-TI-NG-PH-P-C-NG-QUANITO-407e5c1713504918aae11e38152aa7e6'
+      pageId: '407e5c1713504918aae11e38152aa7e6'
     },    
     {
       title: 'Nhật kí',
