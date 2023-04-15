@@ -62,15 +62,15 @@ export default siteConfig({
     },    
     {
       title: 'Nhật kí',
-      pageId: '93331fa2964045248502bd314019c917'
+      pageId: '5e324e7b7db6431fb04b897d78b5f69a'
     },    
     {
       title: 'Photos',
-      pageId: '8e761b9e7d1b4db1ae76bbc1e4f9aa1f'
+      pageId: '291685ac6a8c42689c64e59bdd11f5aa'
     },    
     {
       title: 'Về tôi',
-      pageId: '38979ee661fc4a5d8af2d7c32319ee0d'
+      pageId: '51610f1b4e454fd3819b070bc88bba4a'
     }
   ]
 })
