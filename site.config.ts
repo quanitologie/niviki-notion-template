@@ -24,7 +24,7 @@ export default siteConfig({
   facebook: 'https://www.facebook.com/groups/1581996288979585',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
-  youtube: 'channel/@blackpink', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
+  youtube: 'https://www.youtube.com/watch?v=2mi3NM4YX10', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
@@ -70,7 +70,7 @@ export default siteConfig({
     },    
     {
       title: 'Về tôi',
-      pageId: '51610f1b4e454fd3819b070bc88bba4a'
+      pageId: '05ef5a82fdcd439396835aa0b8bf4011'
     }
   ]
 })
