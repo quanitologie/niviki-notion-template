@@ -19,12 +19,12 @@ export default siteConfig({
   // social usernames (optional)
   twitter: 'roses_are__rose',
   // github: 'transitive-bullshit',
-  linkedin: 'franceculture',
+  linkedin: 'nước-pháp-trong-tôi-698589272',
   
   facebook: 'https://www.facebook.com/groups/1581996288979585',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
-  youtube: 'https://www.youtube.com/watch?v=2mi3NM4YX10', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
+  youtube: '@MontreuxComedy/videos', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
