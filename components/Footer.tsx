@@ -42,10 +42,9 @@ export const FooterImpl: React.FC = () => {
         <div>
           Liên kết:
         </div>
-        <a href="https://toidicodedao.com/" target="_blank" rel="noreferrer">Tôi đi code dạo</a> |
-        <a href="https://laptrinhcuocsong.com/" target="_blank" rel="noreferrer"> Lập trình cuộc sống</a>
-        <br/><a href="https://discord.gg/6SFW4yydvG" target="_blank" rel="noreferrer">Join Discord Channel để giao lưu
-        với nhau nhé 🙋‍♂️</a>
+        <a href="https://www.facebook.com/profile.php?id=100091894866068" target="_blank" rel="noreferrer">NƯỚC PHÁP TRONG TÔI</a> |
+        <a href="https://www.instagram.com/nuocphaptrongtoi.fr/" target="_blank" rel="noreferrer"> MON INSTAGRAM </a>
+        <br/><a href="https://www.facebook.com/groups/1581996288979585" target="_blank" rel="noreferrer">GROUP FACEBOOK NƯỚC PHÁP TRONG TÔI </a>
       </div>
 
       <div className={styles.social + " ft-p-2"}>
