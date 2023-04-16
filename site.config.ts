@@ -11,7 +11,7 @@ export default siteConfig({
   // basic site info (required)
   name: 'NUOC PHAP TRONG TOI',
   domain: 'france.fr',
-  author: 'Quanitologie',
+  author: 'NƯỚC PHÁP TRONG TÔI',
 
   // open graph metadata (optional)
   description: 'Học tiếng Pháp và tìm hiểu văn hoá Pháp, cuộc sống, con người Pháp',
@@ -57,11 +57,11 @@ export default siteConfig({
   navigationStyle: 'custom',
   navigationLinks: [
     {
-      title: 'Blog',
-      pageId: '2049129a2c2c4770804ec122ff46cad4'
+      title: 'Accueil',
+      pageId: '2932c57663c84ee290eea979b5d22067'
     },    
     {
-      title: 'Nhật kí',
+      title: 'Journal intime',
       pageId: '5e324e7b7db6431fb04b897d78b5f69a'
     },    
     {
@@ -69,7 +69,7 @@ export default siteConfig({
       pageId: '291685ac6a8c42689c64e59bdd11f5aa'
     },    
     {
-      title: 'Về tôi',
+      title: 'À propos',
       pageId: '05ef5a82fdcd439396835aa0b8bf4011'
     }
   ]
